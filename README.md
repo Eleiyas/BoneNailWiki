@@ -1,17 +1,11 @@
-# Quartz v5
+# Bone Nail Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+![Bone Nail](/content/assets/logo/BNlogoWhite.png)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+A fan wiki and passion-project covering the lore and world-building of Bone Nail's games set in the "Monster Dream" mythos.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Made possible with [Quartz](https://github.com/jackyzha0/quartz).
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Note
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+All game-assets are copyrighted and attributed to **Bone Nail Studio**. Though they are subject to copyright, their usage is believed to fall under [Fair Use](https://en.wikipedia.org/wiki/Fair_use).
