@@ -1,37 +1,52 @@
 ---
-title: Bone Nail Wiki
+title: Monster Dream Wiki
 enableToc: false
 ---
 
-# Bone Nail
-Bone Nail are a small indie studio based out of Hangzhou, China, originally comprising only 3 team members and a cat.
-- Dizi (笛子): Producer / Director
-- Jiaodujin (角度计): Game Designer
-- Jiabai (加白): Sole Programmer and Artist
+# Monster Dream Wiki
+This wiki aims to collate all the information, lore, and world-building across the games set in [[Bone Nail]]'s self-titled "Monster Dream" series. 
 
-Before setting out to create games that they like and thought players would enjoy, all of the members of Bone Nail were previously working at larger Chinese game companies.
-
-_Source: [Blood Flowers Steam Page](https://store.steampowered.com/app/2094190/Blood_Flowers/)_
+It will not include gameplay elements, walkthroughs or guides for any of the games, outside of the noting various endings, which are core to how some events unfold.
 
 # Games
-To-date, Bone Nail have released 4 games, all set within the same "Monster Dream" mythos:
-- [[Blood Flowers]]
-- [[Yog-Sothoth's Yard]]
-- [[Trainee Death Simulator]]
-- [[The Piper of Dawn]]
-
-# Characters
-## Core
+To-date, 4 games comprise the "Monster Dream" mythos:
 <div class="grid-container">
 
-<a href="Yinchen Zhang" class="grid-item type-1">
-<div class="icon"><img src="/assets/characters/YinchenZhangIcon.png" alt="yinchenzhang" style="width: 150px; height: 150px;"></div>
-<div class="title">Yincheng Zhang</div>
-<div class="description">The Protagonist</div>
+<a href="Blood Flowers" class="grid-item type-1">
+<div class="icon"><img src="/assets/logo/BFIcon.png" alt="bloodflowers" style="width: 150px; height: 150px;"></div>
+<div class="title">Blood Flowers</div>
+<div class="description">1st Game</div>
+</a>
+
+<a href="Yog-Sothoth's Yard" class="grid-item type-2">
+<div class="icon"><img src="/assets/logo/YSYIcon.png" alt="yogsothothsyard" style="width: 150px; height: 150px;"></div>
+<div class="title">Yog-Sothoth's Yard</div>
+<div class="description">2nd Game</div>
+
+<a href="Trainee Death Simulator" class="grid-item type-3">
+<div class="icon"><img src="/assets/logo/TDSIcon.png" alt="traineedeathsimulator" style="width: 150px; height: 150px;"></div>
+<div class="title">Trainee Death Simulator</div>
+<div class="description">3rd Game</div>
+
+<a href="The Piper of Dawn" class="grid-item type-4">
+<div class="icon"><img src="/assets/logo/PoDIcon.png" alt="thepiperofdawn" style="width: 150px; height: 150px;"></div>
+<div class="title">The Piper of Dawn</div>
+<div class="description">4th Game</div>
+</a>
+
+</div>
+
+# Monster Dream
+<div class="grid-container">
+
+<a href="Character List" class="grid-item type-1">
+<div class="icon"><img src="/assets/characters/icon/YinchenZhangIcon.png" alt="characterlist" style="width: 150px; height: 150px;"></div>
+<div class="title">Characters</div>
+<div class="description">Characters of the story</div>
 </a>
 
 <a href="Nix" class="grid-item type-2">
-<div class="icon"><img src="/assets/characters/NixIcon.png" alt="nix" style="width: 150px; height: 150px;"></div>
+<div class="icon"><img src="/assets/characters/icon/NixIcon.png" alt="nix" style="width: 150px; height: 150px;"></div>
 <div class="title">Nix</div>
 <div class="description">An old God and leader of the Meteorite Association</div>
 </a>

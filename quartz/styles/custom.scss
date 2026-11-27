@@ -89,3 +89,76 @@
 .grid-item .icon img {
   margin: 5px;
 }
+
+// Callouts
+
+.callout {
+  &[data-callout="character"] {
+    --color: #ffffff;
+    --border: #a2a9b1;
+    --bg: #222;
+
+    width: 300px;
+    border: 1px solid var(--border);
+    background-color: var(--bg);
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: var(--color);
+    float: right;
+    margin: -10px 10px 10px 10px;
+  }
+
+  &[data-callout="character"] .callout-icon {
+    display: none;
+  }
+
+  &[data-callout="character"] .callout-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+    background-color: #8b0b0b;
+    padding: 5px;
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+    margin: -10px -10px 10px -10px;
+  }
+
+  &[data-callout="character"] .callout-content {
+    padding: 5px 0;
+  }
+
+  &[data-callout="character"] .callout-content h3 {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+
+  &[data-callout="character"] .callout-content p {
+    margin: 5px 0;
+  }
+
+  &[data-callout="character"] .callout-image {
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  &[data-callout="character"] .callout-image img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--border);
+  }
+
+  /* Media query for mobile devices */
+  @media (max-width: 600px) {
+    &[data-callout="character"] {
+      float: none;
+      width: 100%;
+      margin: 10px 0; /* Adjust margins for mobile */
+    }
+
+    /* Ensure the callout title and content are full width */
+    &[data-callout="character"] .callout-title {
+      margin: 0;
+    }
+  }
+}
